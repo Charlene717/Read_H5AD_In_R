@@ -1,4 +1,5 @@
-# readH5ADinR
+# Read H5AD in R
+
 
 An R toolkit for reading `.h5ad` files and performing basic preprocessing for single-cell RNA-seq data.
 
